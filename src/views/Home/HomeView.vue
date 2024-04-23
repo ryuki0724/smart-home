@@ -28,10 +28,12 @@
 
 <script>
 import TopUserCard from '@/components/TopUserCard.vue'
+import WeatherCard from '@/components/WeatherCard.vue'
 
 export default {
   components: {
-    TopUserCard
+    TopUserCard,
+    WeatherCard
   }
 
 }
